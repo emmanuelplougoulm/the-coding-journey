@@ -5,8 +5,6 @@ layout: home
 
 ![](https://media.giphy.com/media/nlk3Y1u3r1n5C/giphy.gif)
 
-Emmanuel
-
 Former visual artist who turned programmer  
 Music lover, beats addict  
 Dilla, Doom and Madlib === Holy trinity  
